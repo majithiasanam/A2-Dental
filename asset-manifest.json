@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/A2-Dental/static/css/main.10882d97.chunk.css",
+    "main.css": "/A2-Dental/static/css/main.0d512c02.chunk.css",
     "main.js": "/A2-Dental/static/js/main.93807b6c.chunk.js",
     "main.js.map": "/A2-Dental/static/js/main.93807b6c.chunk.js.map",
     "runtime-main.js": "/A2-Dental/static/js/runtime-main.c48dc10c.js",
@@ -12,7 +12,7 @@
     "static/js/3.a70d80e1.chunk.js.map": "/A2-Dental/static/js/3.a70d80e1.chunk.js.map",
     "index.html": "/A2-Dental/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/A2-Dental/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.10882d97.chunk.css.map": "/A2-Dental/static/css/main.10882d97.chunk.css.map",
+    "static/css/main.0d512c02.chunk.css.map": "/A2-Dental/static/css/main.0d512c02.chunk.css.map",
     "static/js/2.8d5cbf9e.chunk.js.LICENSE.txt": "/A2-Dental/static/js/2.8d5cbf9e.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/A2-Dental/static/media/hero_mobile_temp.c1e3c312.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.c48dc10c.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.8d5cbf9e.chunk.js",
-    "static/css/main.10882d97.chunk.css",
+    "static/css/main.0d512c02.chunk.css",
     "static/js/main.93807b6c.chunk.js"
   ]
 }
